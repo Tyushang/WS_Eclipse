@@ -1,0 +1,8 @@
+#ignore .metadata directory
+/.metadata/*
+
+#ignore .recommenders directory
+/.recommenders/*
+
+#ignore .class files
+*.class
