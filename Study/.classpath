@@ -6,6 +6,6 @@
 	<classpathentry kind="src" path="core_java"/>
 	<classpathentry kind="src" path="lesson11_database"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="D:/09_WORKSPACE/Extern_Jars/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="var" path="ECLIPSE_HOME/Extern_Jars/mysql-connector-java-5.1.18-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
